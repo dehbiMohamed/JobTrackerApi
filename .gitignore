@@ -1,0 +1,9 @@
+# build
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# local secrets/env
+.env
